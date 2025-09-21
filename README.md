@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Shaik Foujiya 👋
 
-<!--
-**ShaikFoujiya/ShaikFoujiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI & Data Science enthusiast | 3rd-year BTech student | Lifelong learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Passionate about building innovative solutions using AI, Data Science, and Web Technologies.
+- Strong leadership and team collaboration skills; adaptable to new environments and challenges.
+- Exploring cloud technologies and modern development practices.
+- Eager to contribute to impactful projects in a fast-paced startup environment.
+
+---
+
+## Skills
+
+### Programming
+- Python | C | SQL | HTML | CSS | JavaScript  
+
+### AI & Data Science
+- Machine Learning | Deep Learning | TensorFlow | Computer Vision (CNN)  
+
+### Web & Cloud Basics
+- Web Development (Frontend + Backend fundamentals)
+- Cloud awareness: Basics of AWS & Azure concepts  
+
+### Tools & Platforms
+- Git & GitHub | VS Code | Jupyter Notebook | Linux
+
+---
+
+## Projects
+
+### Waste Classification using CNN
+- Built a convolutional neural network to classify waste types with high accuracy.
+- Implemented preprocessing, training, and evaluation pipelines in Python/TensorFlow.
+- [Project Documentation](link-to-your-docs-or-repo)
+
+### Stock Market Prediction System
+- Developed a predictive model using historical stock data to forecast trends.
+- Applied feature engineering, regression models, and visualization for analysis.
+- [Project Documentation](link-to-your-docs-or-repo)
+
+---
+
+## Achievements
+- HackerRank Python Certificate ✅
+- CodeChef 5-day coding streak 🥉
+- Multiple online certifications: C, Python, Java, Blockchain, Cloud Computing  
+
+---
+
+## Let's Connect
+- [LinkedIn] https://www.linkedin.com/in/shaik-foujiya-artificialintelligenceanddatascience/ 
+- [GitHub](https://github.com/ShaikFoujiya)  
+- Email: shaikfoujiya2005@gmail.com
+
+---
+
+*"Learning never exhausts the mind – it empowers it."*
