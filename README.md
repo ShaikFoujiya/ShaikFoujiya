@@ -35,10 +35,9 @@ Aspiring AI & Data Science enthusiast | 3rd-year BTech student | Lifelong learne
 - Built a convolutional neural network to classify waste types with high accuracy.
 - Implemented preprocessing, training, and evaluation pipelines in Python/TensorFlow.
 
-
-### Stock Market Prediction System
-- Developed a predictive model using historical stock data to forecast trends.
-- Applied feature engineering, regression models, and visualization for analysis.
+### E-commerce Responsive Website
+- Developed a fully responsive e-commerce website using HTML, CSS, and JavaScript.
+- Implemented product listing, cart functionality, and responsive design for multiple devices.
 
 
 ---
