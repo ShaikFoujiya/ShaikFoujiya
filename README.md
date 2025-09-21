@@ -34,12 +34,12 @@ Aspiring AI & Data Science enthusiast | 3rd-year BTech student | Lifelong learne
 ### Waste Classification using CNN
 - Built a convolutional neural network to classify waste types with high accuracy.
 - Implemented preprocessing, training, and evaluation pipelines in Python/TensorFlow.
-- [Project Documentation](link-to-your-docs-or-repo)
+
 
 ### Stock Market Prediction System
 - Developed a predictive model using historical stock data to forecast trends.
 - Applied feature engineering, regression models, and visualization for analysis.
-- [Project Documentation](link-to-your-docs-or-repo)
+
 
 ---
 
@@ -52,7 +52,7 @@ Aspiring AI & Data Science enthusiast | 3rd-year BTech student | Lifelong learne
 
 ## Let's Connect
 - [LinkedIn] https://www.linkedin.com/in/shaik-foujiya-artificialintelligenceanddatascience/ 
-- [GitHub](https://github.com/ShaikFoujiya)  
+  
 - Email: shaikfoujiya2005@gmail.com
 
 ---
